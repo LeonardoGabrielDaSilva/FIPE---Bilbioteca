@@ -3,7 +3,7 @@
     import java.util.Scanner;
 
     import Metodos.Busca;
-   import Objetos.*;
+    import Objetos.*;
 
 
     public class main {
