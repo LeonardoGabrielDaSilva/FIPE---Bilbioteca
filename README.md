@@ -1,3 +1,10 @@
+    Biblioteca para utilização da busca de informações na Tabela FIPE
+    A Biblioteca implementa os métodos de busca das informações em WebService e persistência dos dados em json.
+    Segue exemplo de implementação:
+    
+    
+    
+    
     import java.util.ArrayList;
     import java.util.List;
     import java.util.Scanner;
